@@ -2,30 +2,30 @@
 
 ## Table of contents
 
-- [Introduction]()
-	- [What is it?]()
-	- [What can it do?]()
-	- [What is expected cost?]()
-	- [How does it look like?]()
-	- [How big is it?]()
-	- [Is it safe?]()
-	- [OK I'm sold! What do I need to build it?]()
-- [SeeedStudio Fusion PCB]()
-	- [How to order PCBs]()
--  [After you build it]()
-	- [OK DONE! What's next?]()
-- [Software]()
-	- [Swifitch default software]()
-	- [Custom software]()
-- [Enclosure]()
-	- [3D Printed]()
-	- [Purchased ABS box]()
-- [Soldering cheatsheet]()
-	- [Back side]()
-	- [Front side] ()
-- [Credits]()
-- [What's next?]()
-- [Photos]()
+- [Introduction](https://github.com/ArnieX/swifitch#introduction)
+	- [What is it?](https://github.com/ArnieX/swifitch#what-is-it)
+	- [What can it do?](https://github.com/ArnieX/swifitch#what-can-it-do)
+	- [What is expected cost?](https://github.com/ArnieX/swifitch#what-is-expected-cost)
+	- [How does it look like?](https://github.com/ArnieX/swifitch#how-does-it-look-like)
+	- [How big is it?](https://github.com/ArnieX/swifitch#how-big-is-it)
+	- [Is it safe?](https://github.com/ArnieX/swifitch#is-it-safe)
+	- [OK I'm sold! What do I need to build it?](https://github.com/ArnieX/swifitch#ok-im-sold-what-do-i-need-to-build-it)
+- [SeeedStudio Fusion PCB](https://github.com/ArnieX/swifitch#seeedstudio-fusion-pcb)
+	- [How to order PCBs](https://github.com/ArnieX/swifitch#how-to-order-pcbs)
+-  [After you build it](https://github.com/ArnieX/swifitch#after-you-build-it)
+	- [OK DONE! What's next?](https://github.com/ArnieX/swifitch#ok-done-whats-next)
+- [Software](https://github.com/ArnieX/swifitch#software)
+	- [Swifitch default software](https://github.com/ArnieX/swifitch#swifitch-default-software)
+	- [Custom software](https://github.com/ArnieX/swifitch#custom-software)
+- [Enclosure](https://github.com/ArnieX/swifitch#enclosure)
+	- [3D Printed](https://github.com/ArnieX/swifitch#3d-printed)
+	- [Purchased ABS box](https://github.com/ArnieX/swifitch#purchased-abs-box)
+- [Soldering cheatsheet](https://github.com/ArnieX/swifitch#soldering-cheatsheet)
+	- [Back side](https://github.com/ArnieX/swifitch#back-side)
+	- [Front side](https://github.com/ArnieX/swifitch#front-side)
+- [Credits](https://github.com/ArnieX/swifitch#credits)
+- [What's next?](https://github.com/ArnieX/swifitch#whats-next)
+- [Photos](https://github.com/ArnieX/swifitch#photos)
 
 # Introduction
 
@@ -250,6 +250,6 @@ If you liked swifitch and want to submerge deeper into IoT we will reference som
 <br>
 # Photos
 
-<img src="Images/Photo_Front.jpg" width="200"> <img src="Images/Photo_Back.jpg" width="200">
-<img src="Images/Photo_Kaleidoscope_1.jpg" width="200"> <img src="Images/Photo_Kaleidoscope_2.jpg" width="200">
+<img src="Images/Photo_Front.jpg" width="400"> <img src="Images/Photo_Back.jpg" width="400">
+<img src="Images/Photo_Kaleidoscope_1.jpg" width="400"> <img src="Images/Photo_Kaleidoscope_2.jpg" width="400">
 
