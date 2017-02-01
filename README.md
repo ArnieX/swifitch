@@ -119,7 +119,7 @@ This image tell you all you need to know but basically this is the list of steps
 - Insert these wires to 2x5, 2.54mm pitch connector
 - Connect to swifitch and flash firmware
 
-We have created software for you to get started quicky so go to it's own [repository](#).
+We have created software for you to get started quicky so go to it's own [repository](https://github.com/ArnieX/swifitch-software).
 
 <img src="Images/Swifitch_NodeMCU.png" width="700">
 
@@ -131,7 +131,7 @@ It should be safe, but we do not recommend it!
 
 ### Swifitch default software
 
-If you went with our software you are good to go, just follow the README in the [repository](#).
+If you went with our software you are good to go, just follow the README in the [repository](https://github.com/ArnieX/swifitch-software).
 
 ### Custom software
 
