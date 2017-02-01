@@ -32,27 +32,27 @@
 ### What is it?
 
 ESP8266 based WiFi enabled relay board, that will let you easily turn any light or any plug to SMART one. Easily control using HomeKit (other HW needed) or using any MQTT based SmartHome application. Or if you are skilled developer, write any code you want.
-<br><br>
+
 ### What can it do?
 
 Main purpose is to turn things ON or OFF. But it can do lot more than that, swifitch is equiped with header to connect another 4 digital devices and 1 analog. These could be sensors etc.
-<br>
+
 If you need, by sacrificing one of the data pins, you can get 5V for your 5V sensors.
-<br><br>
+
 **⛔  Be aware that swifitch's pins are not 5V tolerant and cannot accept 5V on any of the pins provided, and it will damage the ESP.**
-<br><br>
+
 There are also two jumpers. One is for enabling deep sleep and the other is to put ESP into flash mode when you use conventional USB2UART programmer. We have reused one NodeMCU to make a lot more convenient programmer out of it, because it handles resets and flash mode boot automatically. Details will follow.
-<br><br>
+
 ### What is expected cost?
 
 We have designed swifitch to be both cheap and safe. So it is not ultra cheap but not expensive too. **Our cost calculations has stoped at $8!** Not bad, what you think?
-<br><br>
+
 ### How does it look like?
 
 Definitely beautiful!!
-<br>
+
 <img src="Images/3D_Vector_Swifitch2.png" width="700">
-<br><br>
+
 ### How big is it?
 
 Actually very small, you should be able to fit it almost anywhere without any hassle. But I know, numbers tell it all, so here it is.
@@ -158,7 +158,6 @@ Use ABS plastic filament as this device is using mains voltage and ABS is safer 
 
 We have fitted swifitch to box that can be purchased from various electrical shops. May not be available in all countries thought.
 
-<br>
 # Soldering cheatsheet
 
 ### Back side
@@ -231,23 +230,19 @@ Front side contains mostly THT parts, but start with SMD parts that would be har
 |J1|2P terminal|
 |J2|3P terminal|
 
-<br>
 **🎉 DONE 🎉**
 
-<br>
 # Credits
 
 - PCB design, electronics ideas, parts selection - Miroslav Batěk
 - SW, Git Repo, design - Martin Doubek
 
-<br>
 # What's next?
 
 If you liked swifitch and want to submerge deeper into IoT we will reference some other projects here.
 
 - [tjclement's ESP8266 dimmer HW for LED Strips](https://github.com/tjclement/esp-dimmer-hardware)
 
-<br>
 # Photos
 
 <img src="Images/Photo_Front.jpg" width="400"> <img src="Images/Photo_Back.jpg" width="400">
