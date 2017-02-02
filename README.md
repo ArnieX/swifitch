@@ -63,7 +63,7 @@ Actually very small, you should be able to fit it almost anywhere without any ha
 
 ### Is it safe?
 
-We have designed few safety features in swifitch. Most important are fuses on mains input. There is one overcurrent fuse and more importantly temperature fuse that will disconnect swifitch from mains input when temperature raises above 100°C. There should be another few safeties in HLK-PM01 but we didn't want to depend on it's quality. 
+We have designed few safety features in swifitch. Most important are fuses on mains input. There is one overcurrent fuse and one overvoltage fuse, and more importantly temperature fuse that will disconnect swifitch from mains input when temperature raises above 100°C. There should be another few safeties in HLK-PM01 but we didn't want to depend on it's quality. 
 
 ### OK I'm sold! What do I need to build it?
 
@@ -76,6 +76,12 @@ Most of it could be purchased on AliExpress or eBay for what we call "no money",
 - For PCB we have good experience with guys at [SeeedStudio](https://www.seeedstudio.com)
 - ESP8266-12F were always best quality from this [seller](https://www.aliexpress.com/item/1PCS-ESP-12F-ESP-12E-upgrade-ESP8266-Remote-Serial-Port-WIFI-Wireless-Module-ESP8266/32714088769.html?spm=2114.13010608.0.0.4TnTET)
 
+**Farnell**
+- [MCP1825T-3302E/DC Voltage Regulator](http://uk.farnell.com/microchip/mcp1825t-3302e-dc/ic-ldo-3-3v-500ma-sot-223-5/dp/1578410)
+- [SHURTER MSF 250VAC 500mA](http://uk.farnell.com/schurter/0034-6011/fuse-pcb-quick-blow-500ma/dp/1214681)
+- [B72210S0271K101 - S10K275](http://uk.farnell.com/epcos/b72210s0271k101/varistor-43-0j-275vac/dp/1004390?ost=B72210S0271K101&selectedCategoryId=&categoryNameResp=All%2BCategories&searchView=table&iscrfnonsku=false)
+
+**AliExpress**
 - [SMD 1206 - 160R](https://www.aliexpress.com/item/Free-Shipping-100PCS-1206-160R-1206-160ohm-1-SMD-Resistor-160ohm/2043972079.html?spm=2114.13010608.0.0.iQHdt4)
 - [Relay SRD-05VDC-SL-C](https://www.aliexpress.com/item/Free-shipping-SRD-5VDC-SL-C-5pins-SRD-05VDC-SL-C-Mini-Power-Relay-In-stock/1092738041.html?spm=2114.13010608.0.0.ztsIz3)
 - [FB 0805 600R 100MHz](https://www.aliexpress.com/item/50pcs-SMD-bead-FB-0805-600R-100MHZ-600-600ohm-25-500mA-Ferrite/32637007661.html?spm=2114.13010608.0.0.ztsIz3)
