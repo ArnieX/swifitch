@@ -257,7 +257,7 @@ Front side contains mostly THT parts, but start with SMD parts that would be har
 |F2|100°C fuse|
 |R2|S10K275|
 |F1|MSF250/0.5A|
-|C10|47μF|
+|C10|47nF|
 |C2|47μF|
 |C9|47μF|
 |SB1|Optionaly enable D5 or 5V|
