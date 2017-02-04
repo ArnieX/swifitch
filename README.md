@@ -1,5 +1,8 @@
 ![](Images/swifitch_looong_header.png)
 
+|<img src="Images/czech_flag.png" width="30">|[Readme v Češtině](https://github.com/ArnieX/swifitch/blob/master/README_CZ.md)|
+|---|---|
+
 ## Table of contents
 
 - [Introduction](https://github.com/ArnieX/swifitch#introduction)
@@ -194,7 +197,7 @@ Use ABS plastic filament as this device is using mains voltage and ABS is safer 
 
 ### Purchased ABS box
 
-We have fitted swifitch to box that can be purchased from various electrical shops. May not be available in all countries thought.
+We have fitted swifitch to box that can be [purchased](http://www.tme.eu/gb/details/cp-z-24_tr/multipurpose-enclosures/combiplast/) from various electrical shops. May not be available in all countries thought.
 
 # Soldering cheatsheet
 
@@ -234,7 +237,7 @@ Start with SMD parts on the BACK side.
 |---|---|
 |FB1|FB 600Ω 100MHz|
 |D1|BAS86|
-|T1|BS817|
+|T1|BC817|
 |WiFi1|ESP8266-12(E/F/S)|
 
 ### Front side
@@ -245,7 +248,7 @@ Front side contains mostly THT parts, but start with SMD parts that would be har
 
 |Slot|Part|
 |---|---|
-|R1|470Ω > 2kΩ (depends on LED1)|
+|R1|470Ω < Rled < 2kΩ (depends on LED1)|
 |LED1|Choose color you like|
 |V1|Voltage Regulator|
 
@@ -273,7 +276,7 @@ Front side contains mostly THT parts, but start with SMD parts that would be har
 # Credits
 
 - PCB design, electronics ideas, parts selection - Miroslav Batěk
-- SW, Git Repo, design - Martin Doubek
+- SW, Git Repo, design, 3D printed enclosure - Martin Doubek
 
 # What's next?
 
