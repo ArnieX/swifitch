@@ -284,6 +284,12 @@ If you liked swifitch and want to submerge deeper into IoT we will reference som
 
 - [tjclement's ESP8266 dimmer HW for LED Strips](https://github.com/tjclement/esp-dimmer-hardware)
 
+IoT platforms and enablers.
+
+- [Homebridge - HomeKit server](https://github.com/nfarina/homebridge)
+	- [Homebridge MQTT plugin](https://github.com/cflurin/homebridge-mqtt)
+- [Blynk - platform and applications for IoT - Swifitch is supported](https://github.com/blynkkk/blynk-server)
+
 # Photos
 
 <img src="Images/Photo_Front.jpg" width="400"> <img src="Images/Photo_Back.jpg" width="400">

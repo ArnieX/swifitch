@@ -284,6 +284,12 @@ Pokud se vám swifitch zalíbil a chcete ve výbavě chytré domácnosti pokrač
 
 - [ESP8266 stmívací modul pro LED pásky od uživatele tjclement](https://github.com/tjclement/esp-dimmer-hardware)
 
+Popřípadě tyto IoT platformy, nebo enablery.
+
+- [Homebridge - vlastní HomeKit server](https://github.com/nfarina/homebridge)
+	- [Homebridge MQTT plugin](https://github.com/cflurin/homebridge-mqtt)
+- [Blynk - plaforma a aplikace pro IoT - lze použít se Swifitchem](https://github.com/blynkkk/blynk-server)
+
 # Fotografie
 
 <img src="Images/Photo_Front.jpg" width="400"> <img src="Images/Photo_Back.jpg" width="400">
