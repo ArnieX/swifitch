@@ -42,7 +42,7 @@ Jak už z názvu vyplývá hlavní funkcí je připojené zařízení zapínat n
 
 Obětováním jednoho datového pinu lze získat 5V pro senzory nebo jiné moduly vyžadujících pro svou činnost 5V.
 
-**⛔  Pozor, swifitch přesto, že umožňuje aktivaci výstupu 5V neumožňuje vstup 5V na žádném dostupném pinu, pokud by jste připojili 5V na některý pin, zničíte modul ESP8266.**
+**⛔  Pozor, swifitch přesto, že umožňuje aktivaci výstupu 5V neumožňuje vstup 5V na žádném dostupném pinu, pokud byste připojili 5V na některý pin, zničíte modul ESP8266.**
 
 Kromě vstupně-výstupních pinů jsou k dispozici také dvě přemostění, první umožňuje využití režimu hlubokého spánku, druhé je nezbytné pokud pro nahrávání softwaru budete využívat běžný USB2UART programátor. Naše doporučení je využít pro programování upravený NodeMCU vývojový modul a to proto, že se sám stará o aktivaci flashovacího režimu a restarty modulu, víc dále.
 
