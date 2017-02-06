@@ -160,7 +160,7 @@ Obrázek níže přesně ukazuje čeho potřebujete dosáhnout, přesto pár kro
 - Vložte vodiče do konektoru 2x5 s roztečí 2.54mm
 - Připojte swifitch a nahrajte software.
 
-Připravili jsme pro vás náš software aby byl začátek co nejsnazší, pokračujte do jeho [repozitáře](https://github.com/ArnieX/swifitch/blob/master/README_CZ.md-software).
+Připravili jsme pro vás náš software aby byl začátek co nejsnazší, pokračujte do jeho [repozitáře](https://github.com/ArnieX/swifitch-software).
 
 <img src="Images/Swifitch_NodeMCU.png" width="700">
 
@@ -172,7 +172,7 @@ Mělo by to být bezpečné, přesto to nedoporučujeme.
 
 ### Náš základní software 
 
-Pokud jste se rozhodli pro náš software tak postupujte dle README v jeho [repozitáři](https://github.com/ArnieX/swifitch/blob/master/README_CZ.md-software).
+Pokud jste se rozhodli pro náš software tak postupujte dle README v jeho [repozitáři](https://github.com/ArnieX/swifitch-software).
 
 ### Vlastní software
 
