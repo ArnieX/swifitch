@@ -137,7 +137,7 @@ Farnell should be OK for all over world.
 
 ### How to order PCBs
 
-First grab gerber files ZIP and upload it to SeeedStudio Fusion then follow instructions below.
+First grab gerber files ZIP and upload it to [SeeedStudio Fusion PCB](https://www.seeedstudio.com/fusion_pcb.html) then follow instructions below.
 
 We have created sreenshots from ordering process so you can recreate the process in same manner. Decide how many pieces you want and get started. Keep in mind that each board are actually two swifitches ;). That makes it even cheaper.
 
