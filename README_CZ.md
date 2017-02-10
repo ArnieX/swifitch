@@ -137,7 +137,7 @@ Pro ty ostatní je zde ještě Farnell
 
 ### Jak objednat plošné spoje
 
-Stáhněte si ZIP soubor obsahující soubory "Gerber" a celý jej nahrajte do objednávacího procesu na SeeedStudio Fusion PCB webu a postupujte podle instrukcí na webu a níže.
+Stáhněte si ZIP soubor obsahující soubory "Gerber" a celý jej nahrajte do objednávacího procesu na [SeeedStudio Fusion PCB webu](https://www.seeedstudio.com/fusion_pcb.html) a postupujte podle instrukcí na webu a níže.
 
 Připravili jsme pro vás snímky obrazovky z objednávkového procesu, když jsme plošné spoje objednávali naposledy a tak můžete snadno vyplnit stejné hodnoty. Vyberte si počet plošných spojů a mějte na paměti, že 1ks jsou dva. Za stejnou cenu se nám podařilo na jednu desku dostat dvě.
 
