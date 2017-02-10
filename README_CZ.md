@@ -74,56 +74,56 @@ Při navrhování swifitche byla bezpečnost jednou z priorit a rozhodně jsme j
 
 |Náhled|Součástka|Koupit|
 |---|---|---|
-|<img src="Images/Parts/Capacitors_4.7uF.png" width="70">|4.7μF 0805|[<img src="Images/Shops/ali.png" width="30">](https://www.aliexpress.com/item/Free-shipping-0805-SMD-capacitor-4-7uf-50V-475Z-100PCS/32376068362.html?spm=2114.13010608.0.0.ztsIz3)|
-|<img src="Images/Parts/Gray_BG_Parts/Capacitors_100nF.png" width="70">|100nF 0805|[<img src="Images/Shops/gray_ali.png" width="30">](https://www.aliexpress.com/item/Free-shipping-0805-SMD-capacitor-100nf-0-1uf-50V-104Z-100PCS/32375582602.html?spm=2114.13010608.0.0.ztsIz3)|
-|<img src="Images/Parts/Capacitors_10nF.png" width="70">|10nF 0805|[<img src="Images/Shops/ali.png" width="30">](https://www.aliexpress.com/item/Free-shipping-0805-SMD-capacitor-10nf-50V-103K-100PCS/32375924803.html?spm=2114.13010608.0.0.ztsIz3)|
-|<img src="Images/Parts/Gray_BG_Parts/Capacitors_47uF.png" width="70">|47μF ⌀6.3x5mm|[<img src="Images/Shops/gray_farnell.png" width="35">](http://cz.farnell.com/multicomp/mcumr16v476m6-3x5/cap-alu-elec-47uf-16v-rad/dp/9452214?iscrfnonsku=true) [<img src="Images/Shops/gray_tme.png" width="30">](http://www.tme.eu/cz/details/umt1c470mdd/105c-tht-electrolytic-capacitors/nichicon/)|
-|<img src="Images/Parts/Capacitors_47nF.png" width="70">|47nF X2|[<img src="Images/Shops/farnell.png" width="35">](http://cz.farnell.com/kemet/r463i24705001k/cap-film-pp-0-047uf-300vac-rad/dp/2446240?ost=R463I24705001K&searchView=table&iscrfnonsku=false) [<img src="Images/Shops/tme.png" width="30">](http://www.tme.eu/cz/details/r463i24705001k/x2y2-foil-polypropylene-capacitors/kemet/)|
+|<img src="Images/Parts/Capacitors_4.7uF.png" width="70">|4.7μF 0805|[<img src="Images/Shops/ali.png" width="30">](http://swifitch.cz/capacitors_4.7uf_0805)|
+|<img src="Images/Parts/Gray_BG_Parts/Capacitors_100nF.png" width="70">|100nF 0805|[<img src="Images/Shops/gray_ali.png" width="30">](http://swifitch.cz/capacitors_100nf_0805)|
+|<img src="Images/Parts/Capacitors_10nF.png" width="70">|10nF 0805|[<img src="Images/Shops/ali.png" width="30">](http://swifitch.cz/capacitors_10nf_0805)|
+|<img src="Images/Parts/Gray_BG_Parts/Capacitors_47uF.png" width="70">|47μF ⌀6.3x5mm|[<img src="Images/Shops/gray_farnell.png" width="35">](http://swifitch.cz/capacitors_47uf_6.3x5_farnell) [<img src="Images/Shops/gray_tme.png" width="30">](http://swifitch.cz/capacitors_47uf_6.3x5_tme)|
+|<img src="Images/Parts/Capacitors_47nF.png" width="70">|47nF X2|[<img src="Images/Shops/farnell.png" width="35">](http://swifitch.cz/cz/capacitors_47nf_farnell) [<img src="Images/Shops/tme.png" width="30">](http://swifitch.cz/cz/capacitors_47nf_tme)|
 
 **Odpory**
 
 |Náhled|Součástka|Koupit|
 |---|---|---|
-|<img src="Images/Parts/Resistors_10k.png" width="80">|10kΩ 0805|[<img src="Images/Shops/ali.png" width="30">](https://www.aliexpress.com/item/100pcs-lot-SMD-Chip-Resistor-0805-10K-10K-ohm-5-Free-shippng/32382494431.html?spm=2114.13010608.0.0.nza8EJ)|
-|<img src="Images/Parts/Gray_BG_Parts/Resistors_one_0805.png" width="80">|1.5kΩ 0805|[<img src="Images/Shops/gray_ali.png" width="30">](https://www.aliexpress.com/item/New-100PCS-Lot-SMD-Resistance-0805-1K5-1-5K-5-1-8W-Chip-Resistors-Wholesale/32530331741.html?spm=2114.13010608.0.0.FKRHEz)|
-|<img src="Images/Parts/Resistors_one_0805.png" width="80">|2.2kΩ 0805|[<img src="Images/Shops/ali.png" width="30">](https://www.aliexpress.com/item/New-100PCS-Lot-SMD-Resistance-0805-2K2-2-2K-5-1-8W-Chip-Resistors-Wholesale/32530124753.html?spm=2114.13010608.0.0.FKRHEz)|
-|<img src="Images/Parts/Gray_BG_Parts/Resistors_one_0805.png" width="80">|47kΩ 0805|[<img src="Images/Shops/gray_ali.png" width="30">](https://www.aliexpress.com/item/100pcs-lot-SMD-Chip-Resistor-0805-47K-47K-ohm-5-Free-shippng/32381859069.html?spm=2114.13010608.0.0.nza8EJ)|
-|<img src="Images/Parts/Resistors_160R_1206.png" width="80">|160Ω 1206|[<img src="Images/Shops/ali.png" width="30">](https://www.aliexpress.com/item/Free-Shipping-100PCS-1206-160R-1206-160ohm-1-SMD-Resistor-160ohm/2043972079.html?spm=2114.13010608.0.0.iQHdt4)|
-|<img src="Images/Parts/Gray_BG_Parts/S10K275.png" width="80">|S10K275|[<img src="Images/Shops/gray_farnell.png" width="35">](http://cz.farnell.com/epcos/b72210s0271k101/varistor-43-0j-275vac/dp/1004390?ost=B72210S0271K101&selectedCategoryId=&categoryNameResp=All%2BCategories&searchView=table&iscrfnonsku=false) [<img src="Images/Shops/gray_tme.png" width="30">](http://www.tme.eu/cz/details/siov-s10k275/tht-varistors/epcos/b72210s0271k101/)|
+|<img src="Images/Parts/Resistors_10k.png" width="80">|10kΩ 0805|[<img src="Images/Shops/ali.png" width="30">](http://swifitch.cz/resistors_10k_0805)|
+|<img src="Images/Parts/Gray_BG_Parts/Resistors_one_0805.png" width="80">|1.5kΩ 0805|[<img src="Images/Shops/gray_ali.png" width="30">](http://swifitch.cz/resistors_1.5k_0805)|
+|<img src="Images/Parts/Resistors_one_0805.png" width="80">|2.2kΩ 0805|[<img src="Images/Shops/ali.png" width="30">](http://swifitch.cz/resistors_2.2k_0805)|
+|<img src="Images/Parts/Gray_BG_Parts/Resistors_one_0805.png" width="80">|47kΩ 0805|[<img src="Images/Shops/gray_ali.png" width="30">](http://swifitch.cz/resistors_47k_0805)|
+|<img src="Images/Parts/Resistors_160R_1206.png" width="80">|160Ω 1206|[<img src="Images/Shops/ali.png" width="30">](http://swifitch.cz/resistors_160R_1206)|
+|<img src="Images/Parts/Gray_BG_Parts/S10K275.png" width="80">|S10K275|[<img src="Images/Shops/gray_farnell.png" width="35">](http://swifitch.cz/cz/resistors_S10K275_farnell) [<img src="Images/Shops/gray_tme.png" width="30">](http://swifitch.cz/cz/resistors_S10K275_tme)|
 
 **Napájení a ovládací prvky**
 
 |Náhled|Součástka|Koupit|
 |---|---|---|
-|<img src="Images/Parts/Fuse_Schurter.png" width="40">|SCHURTER MSF 250VAC 500mA|[<img src="Images/Shops/farnell.png" width="35">](http://cz.farnell.com/schurter/0034-6011/fuse-pcb-quick-blow-500ma/dp/1214681) [<img src="Images/Shops/tme.png" width="30">](http://www.tme.eu/cz/details/0034.6011/fuses-tr5-fast/schurter/)|
-|<img src="Images/Parts/Gray_BG_Parts/Fuse_Temperature.png" width="40">|PROFFUSE TZ-P100/2 100°C či podobná|[<img src="Images/Shops/gray_farnell.png" width="30">](http://cz.farnell.com/thermodisc/g4a01098c/fuse-thermal-98-c/dp/476584) [<img src="Images/Shops/gray_tme.png" width="30">](http://www.tme.eu/cz/details/tz-p100_2/thermal-fuses/proffuse/)|
-|<img src="Images/Parts/HLK-PM01.png" width="80">|Hi-Link HLK-PM01 AC-DC 5V/3W|[<img src="Images/Shops/ali.png" width="30">](https://www.aliexpress.com/item/Free-Shipping-10pcs-lot-HLK-PM01-AC-DC-220V-to-5V-mini-power-supply-module-intelligent/32688093777.html?spm=2114.13010608.0.0.T6S4Y8)|
-|<img src="Images/Parts/Gray_BG_Parts/Relay.png" width="50">|SRD-05VDC-SL-C relé<br>FINDER  36.11.9.005.4011|[<img src="Images/Shops/gray_ali.png" width="30">](https://www.aliexpress.com/item/Free-shipping-SRD-5VDC-SL-C-5pins-SRD-05VDC-SL-C-Mini-Power-Relay-In-stock/1092738041.html?spm=2114.13010608.0.0.ztsIz3) [<img src="Images/Shops/gray_farnell.png" width="30">](http://cz.farnell.com/finder/36-11-9-005-4011/relay-spdt-250vac-10a/dp/2311438?ost=36.11.9.005.4011&selectedCategoryId=&categoryNameResp=All%2BCategories&searchView=table&iscrfnonsku=false) [<img src="Images/Shops/gray_tme.png" width="30">](http://www.tme.eu/cz/details/36.11.9.005.4001/miniature-electromagnetic-relays/finder/361190054011/)|
+|<img src="Images/Parts/Fuse_Schurter.png" width="40">|SCHURTER MSF 250VAC 500mA|[<img src="Images/Shops/farnell.png" width="35">](http://swifitch.cz/cz/power_schurter_fuse_farnell) [<img src="Images/Shops/tme.png" width="30">](http://swifitch.cz/cz/power_schurter_fuse_tme)|
+|<img src="Images/Parts/Gray_BG_Parts/Fuse_Temperature.png" width="40">|PROFFUSE TZ-P100/2 100°C nebo podobná|[<img src="Images/Shops/gray_farnell.png" width="30">](http://swifitch.cz/cz/power_temperature_fuse_farnell) [<img src="Images/Shops/gray_tme.png" width="30">](http://swifitch.cz/cz/power_temperature_fuse_tme)|
+|<img src="Images/Parts/HLK-PM01.png" width="80">|Hi-Link HLK-PM01 AC-DC 5V/3W|[<img src="Images/Shops/ali.png" width="30">](http://swifitch.cz/power_AC_DC)|
+|<img src="Images/Parts/Gray_BG_Parts/Relay.png" width="50">|SRD-05VDC-SL-C Relay<br>FINDER  36.11.9.005.4011|[<img src="Images/Shops/gray_ali.png" width="30">](http://swifitch.cz/power_relay_ali) [<img src="Images/Shops/gray_farnell.png" width="30">](http://swifitch.cz/cz/power_relay_farnell) [<img src="Images/Shops/gray_tme.png" width="30">](http://swifitch.cz/cz/power_relay_tme)|
 
 **Další SMD součástky**
 
 |Náhled|Součástka|Koupit|
 |---|---|---|
-|<img src="Images/Parts/BC817-16.215.png" width="20">|BC817-16.215|[<img src="Images/Shops/ali.png" width="30">](https://www.aliexpress.com/item/100PCS-Lot-BC817-BC817-16-SOT-23-NPN-6C-0-1A-45V-general-purpose-transistor-NEW/32624683542.html?spm=2114.13010208.99999999.264.BYhv5u) [<img src="Images/Shops/farnell.png" width="35">](http://cz.farnell.com/nxp/bc817-16-215/transistor-npn-45v-0-5a-sot-23/dp/8734739) [<img src="Images/Shops/tme.png" width="30">](http://www.tme.eu/cz/details/bc817-16.215/npn-smd-transistors/nxp/)|
-|<img src="Images/Parts/Gray_BG_Parts/BAS86.png" width="22">|BAS86|[<img src="Images/Shops/gray_farnell.png" width="35">](http://cz.farnell.com/nxp/bas86/diode-schottky-sod-80/dp/8734542) [<img src="Images/Shops/gray_tme.png" width="30">](http://www.tme.eu/cz/details/bas86.115/smd-schottky-diodes/nxp/)|
-|<img src="Images/Parts/MCP1825T-3302E-DC.png" width="30">|MCP1825T-3302E/DC Regulátor Napětí|[<img src="Images/Shops/farnell.png" width="35">](http://cz.farnell.com/microchip/mcp1825t-3302e-dc/ic-ldo-3-3v-500ma-sot-223-5/dp/1578410) [<img src="Images/Shops/tme.png" width="30">](http://www.tme.eu/cz/details/mcp1825t-3302ed/ldo-unregulated-voltage-regulators/microchip-technology/mcp1825t-3302edc/)|
-|<img src="Images/Parts/Gray_BG_Parts/FB1.png" width="18">|Feritová perla 600Ω 100MHz 0805|[<img src="Images/Shops/gray_ali.png" width="30">](https://www.aliexpress.com/item/50pcs-SMD-bead-FB-0805-600R-100MHZ-600-600ohm-25-500mA-Ferrite/32637007661.html?spm=2114.13010608.0.0.ztsIz3) [<img src="Images/Shops/gray_farnell.png" width="30">](http://cz.farnell.com/murata/blm21ag601sn1d/ferrite-bead-0805-0-21ohm-0-6a/dp/1515622?MER=sy-me-pd-mi-alte) [<img src="Images/Shops/gray_tme.png" width="30">](http://www.tme.eu/cz/details/mmz2012r601a/ferrite-beads/tdk/)|
-|<img src="Images/Parts/LED1.png" width="18">|Jakákoliv 0805 LED dioda|[<img src="Images/Shops/ali.png" width="30">](https://www.aliexpress.com/item/100pcs-Flashing-LEDs-SMD-0805-Red-Flashing-Diodes-Blinking-LED-Flash-0805-SMD-Diode-0805-smd/32366087497.html?spm=2114.13010608.0.0.FKRHEz)|
+|<img src="Images/Parts/BC817-16.215.png" width="20">|BC817-16.215|[<img src="Images/Shops/ali.png" width="30">](http://swifitch.cz/smd_bc817_ali) [<img src="Images/Shops/farnell.png" width="35">](http://swifitch.cz/cz/smd_bc817_farnell) [<img src="Images/Shops/tme.png" width="30">](http://swifitch.cz/cz/smd_bc817_tme)|
+|<img src="Images/Parts/Gray_BG_Parts/BAS86.png" width="22">|BAS86|[<img src="Images/Shops/gray_farnell.png" width="35">](http://swifitch.cz/cz/smd_bas86_farnell) [<img src="Images/Shops/gray_tme.png" width="30">](http://swifitch.cz/cz/smd_bas86_tme)|
+|<img src="Images/Parts/MCP1825T-3302E-DC.png" width="30">|MCP1825T-3302E/DC Regulátor Napětí|[<img src="Images/Shops/farnell.png" width="35">](http://swifitch.cz/cz/smd_MCP1825T_farnell) [<img src="Images/Shops/tme.png" width="30">](http://swifitch.cz/cz/smd_MCP1825T_tme)|
+|<img src="Images/Parts/Gray_BG_Parts/FB1.png" width="18">|Feritová perla 600Ω 100MHz 0805|[<img src="Images/Shops/gray_ali.png" width="30">](http://swifitch.cz/smd_ferritebead_ali) [<img src="Images/Shops/gray_farnell.png" width="30">](http://swifitch.cz/cz/smd_ferritebead_farnell) [<img src="Images/Shops/gray_tme.png" width="30">](http://swifitch.cz/cz/smd_ferritebead_tme)|
+|<img src="Images/Parts/LED1.png" width="18">|Libovolná 0805 LED dioda|[<img src="Images/Shops/ali.png" width="30">](http://swifitch.cz/smd_led_diode)|
 
 **Konektory**
 
 |Náhled|Součástka|Koupit|
 |---|---|---|
-|<img src="Images/Parts/Header_1x2.png" width="30">|Oboustranný kolík 1x2 s roztečí 2.54mm |[<img src="Images/Shops/ali.png" width="30">](https://www.aliexpress.com/item/10pcs-40-Pin-1x40-Single-Row-Male-2-54-Breakable-Pin-Header-Connector-Strip-for-Arduino/32641752713.html?spm=2114.13010608.0.0.U9AXxI)|
-|<img src="Images/Parts/Gray_BG_Parts/Header_2x5.png" width="26">|Oboustranný kolík 2x5 s roztečí 2.54mm|[<img src="Images/Shops/gray_ali.png" width="30">](https://www.aliexpress.com/item/5-PCS-2-54mm-2-x-40-Pin-Male-Double-Row-Pin-Header-Strip/32216818428.html?spm=2114.01010208.3.2.5nQ4Vd)|
-|<img src="Images/Parts/Terminal_2P_and_3P.png" width="100">|Svorkovnice 2P a 3P, s roztečí 5.08mm a kulatým vývodem|[<img src="Images/Shops/ali.png" width="30">](https://www.aliexpress.com/wholesale?catId=0&initiative_id=SB_20170202034250&SearchText=terminal+5.08mm)|
+|<img src="Images/Parts/Header_1x2.png" width="30">|Oboustranný kolík 1x2 s roztečí 2.54mm |[<img src="Images/Shops/ali.png" width="30">](http://swifitch.cz/connector_headers_1x2)|
+|<img src="Images/Parts/Gray_BG_Parts/Header_2x5.png" width="26">|Oboustranný kolík 2x5 s roztečí 2.54mm|[<img src="Images/Shops/gray_ali.png" width="30">](http://swifitch.cz/connector_headers_2x5)|
+|<img src="Images/Parts/Terminal_2P_and_3P.png" width="100">|Svorkovnice 2P a 3P, s roztečí 5.08mm a kulatým vývodem|[<img src="Images/Shops/ali.png" width="30">](http://swifitch.cz/connector_terminal)|
 
 **Zbytek**
 
 |Náhled|Součástka|Koupit|
 |---|---|---|
-|<img src="Images/Parts/ESP8266_12.png" width="75">|ESP8266-12(E/F/S)|[<img src="Images/Shops/ali.png" width="30">](https://www.aliexpress.com/item/1PCS-ESP-12F-ESP-12E-upgrade-ESP8266-Remote-Serial-Port-WIFI-Wireless-Module-ESP8266/32714088769.html?spm=2114.13010608.0.0.4TnTET)|
-|<img src="Images/Parts/Gray_BG_Parts/PCB.png" width="300">|Plošné spoje|[<img src="Images/Shops/gray_seeedstudio.png" width="30">](https://www.seeedstudio.com/fusion_pcb.html)|
+|<img src="Images/Parts/ESP8266_12.png" width="75">|ESP8266-12(E/F/S)|[<img src="Images/Shops/ali.png" width="30">](http://swifitch.cz/therest_esp8266)|
+|<img src="Images/Parts/Gray_BG_Parts/PCB.png" width="300">|Plošné spoje|[<img src="Images/Shops/gray_seeedstudio.png" width="30">](http://swifitch.cz/therest_pcb)|
 
 Většinu lze zakoupit na AliExpressu nebo eBay a to za ceny, že ani není třeba to komentovat. Některé součástky je lepší nebo i výhodnější zakoupit od místních prodejců elektroniky.
 
@@ -137,7 +137,7 @@ Pro ty ostatní je zde ještě Farnell
 
 ### Jak objednat plošné spoje
 
-Stáhněte si ZIP soubor obsahující soubory "Gerber" a celý jej nahrajte do objednávacího procesu na [SeeedStudio Fusion PCB webu](https://www.seeedstudio.com/fusion_pcb.html) a postupujte podle instrukcí na webu a níže.
+Stáhněte si ZIP soubor obsahující soubory "Gerber" a celý jej nahrajte do objednávacího procesu na [SeeedStudio Fusion PCB webu](http://swifitch.cz/therest_pcb) a postupujte podle instrukcí na webu a níže.
 
 Připravili jsme pro vás snímky obrazovky z objednávkového procesu, když jsme plošné spoje objednávali naposledy a tak můžete snadno vyplnit stejné hodnoty. Vyberte si počet plošných spojů a mějte na paměti, že 1ks jsou dva. Za stejnou cenu se nám podařilo na jednu desku dostat dvě.
 
@@ -160,7 +160,7 @@ Obrázek níže přesně ukazuje čeho potřebujete dosáhnout, přesto pár kro
 - Vložte vodiče do konektoru 2x5 s roztečí 2.54mm
 - Připojte swifitch a nahrajte software.
 
-Připravili jsme pro vás náš software aby byl začátek co nejsnazší, pokračujte do jeho [repozitáře](https://github.com/ArnieX/swifitch-software).
+Připravili jsme pro vás náš software aby byl začátek co nejsnazší, pokračujte do jeho [repozitáře](http://swifitch.cz/software).
 
 <img src="Images/Swifitch_NodeMCU.png" width="700">
 
@@ -172,7 +172,7 @@ Mělo by to být bezpečné, přesto to nedoporučujeme.
 
 ### Náš základní software 
 
-Pokud jste se rozhodli pro náš software tak postupujte dle README v jeho [repozitáři](https://github.com/ArnieX/swifitch-software).
+Pokud jste se rozhodli pro náš software tak postupujte dle README v jeho [repozitáři](http://swifitch.cz/software).
 
 ### Vlastní software
 
@@ -197,7 +197,7 @@ Doporučujeme tisk z ABS, neboť je to bezpečnější materiál pro zařízení
 
 ### Kupovaná krabička
 
-Swifitch byl navržen primárně pro umístění do krabičky běžně [dostupné](http://www.tme.eu/cz/details/cp-z-24_tr/univerzalni-krabicky/combiplast/), je však nutné jí drobně upravit, postačí vrtačka a vrtáky na kov.
+Swifitch byl navržen primárně pro umístění do krabičky běžně [dostupné](http://swifitch.cz/cz/enclosure), je však nutné jí drobně upravit, postačí vrtačka a vrtáky na kov.
 
 # Návod na pájení
 
