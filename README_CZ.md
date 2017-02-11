@@ -294,4 +294,4 @@ Popřípadě tyto IoT platformy, nebo enablery.
 
 <img src="Images/Photo_Front.jpg" width="400"> <img src="Images/Photo_Back.jpg" width="400">
 <img src="Images/Photo_Kaleidoscope_1.jpg" width="400"> <img src="Images/Photo_Kaleidoscope_2.jpg" width="400">
-<img src="Images/Photo_Bottom_5pcs.jpg">
+<img src="Images/Photo_Bottom_5pcs.JPG">
