@@ -189,7 +189,11 @@ Pokud máte přístup ke 3D tiskárně, můžete si vytisknout naší 3D krabič
 
 **Nevyzkoušeno, klidně můžete být první.**
 
-<img src="Images/swifitch_box_transp.png" width="500">
+<img src="Images/box_v2.png">
+<img src="Images/box_explode.gif">
+<img src="Images/box_turntable.gif">
+
+Pokud by jste si rádi navrhli krabičku vlastní a používáte Fusion 360, zde najdete 3D model [Swifitche](http://a360.co/2kX4JSr).
 
 Doporučujeme tisk z ABS, neboť je to bezpečnější materiál pro zařízení napajené z rozvodné sítě.
 

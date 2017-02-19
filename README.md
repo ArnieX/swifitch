@@ -189,7 +189,11 @@ If you have access to 3D printer, have a look at our original swifitch box.
 
 **This is experimental, not printed yet. Feel free to be first one.**
 
-<img src="Images/swifitch_box_transp.png" width="500">
+<img src="Images/box_v2.png">
+<img src="Images/box_explode.gif">
+<img src="Images/box_turntable.gif">
+
+If you wish to design your own box and you use Fusion 360, here is 3D model of [Swifitch](http://a360.co/2kX4JSr).
 
 Use ABS plastic filament as this device is using mains voltage and ABS is safer for such devices.
 
