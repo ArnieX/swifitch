@@ -189,7 +189,7 @@ Pokud máte přístup ke 3D tiskárně, můžete si vytisknout naší 3D krabič
 
 **Nevyzkoušeno, klidně můžete být první.**
 
-<img src="Images/box_v2.png">
+<img src="Images/box_v2.png" width="600">
 <img src="Images/box_explode.gif">
 <img src="Images/box_turntable.gif">
 
