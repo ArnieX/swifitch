@@ -187,8 +187,6 @@ Pokud se rozhodnete napsat vlastní software, jen do toho, zde jen pár faktů, 
 
 Pokud máte přístup ke 3D tiskárně, můžete si vytisknout naší 3D krabičku.
 
-**Nevyzkoušeno, klidně můžete být první.**
-
 <img src="Images/box_v2.png" width="600">
 <img src="Images/box_explode.gif">
 <img src="Images/box_turntable.gif">

@@ -187,8 +187,6 @@ Just few things you need to know if you develop your own software.
 
 If you have access to 3D printer, have a look at our original swifitch box.
 
-**This is experimental, not printed yet. Feel free to be first one.**
-
 <img src="Images/box_v2.png" width="600">
 <img src="Images/box_explode.gif">
 <img src="Images/box_turntable.gif">
