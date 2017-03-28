@@ -280,6 +280,12 @@ Přední strana obsahuje většinově THT součástky, proto začněte s SMD sou
 - návrhy plošných spojů, nápady ohledně elektroniky, výběr vhodných součástek - Miroslav Batěk
 - SW, Git Repo, grafika, 3D krabička - Martin Doubek
 
+# Zmíňky
+
+Žlutá pohovka
+
+[![](http://i3.ytimg.com/vi/TU_wt0HFtbs/hqdefault.jpg)](https://youtu.be/TU_wt0HFtbs)
+
 # Co dál?
 
 Pokud se vám swifitch zalíbil a chcete ve výbavě chytré domácnosti pokračovat, doporučujeme tyto další projekty.
