@@ -280,6 +280,14 @@ Front side contains mostly THT parts, but start with SMD parts that would be har
 - PCB design, electronics ideas, parts selection - Miroslav Batěk
 - SW, Git Repo, design, 3D printed enclosure - Martin Doubek
 
+# Mentions
+
+Yellow Couch
+
+[![](http://i3.ytimg.com/vi/TU_wt0HFtbs/hqdefault.jpg)](https://youtu.be/TU_wt0HFtbs)
+
+Czech - with **English** subtitles
+
 # What's next?
 
 If you liked swifitch and want to submerge deeper into IoT we will reference some other projects here.
