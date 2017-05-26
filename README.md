@@ -76,7 +76,7 @@ We have designed few safety features in swifitch. Most important are fuses on ma
 |---|---|---|
 |<img src="Images/Parts/Capacitors_4.7uF.png" width="70">|4.7μF 0805|[<img src="Images/Shops/ali.png" width="30">](http://swifitch.cz/capacitors_4.7uf_0805)|
 |<img src="Images/Parts/Gray_BG_Parts/Capacitors_100nF.png" width="70">|100nF 0805|[<img src="Images/Shops/gray_ali.png" width="30">](http://swifitch.cz/capacitors_100nf_0805)|
-|<img src="Images/Parts/Capacitors_10nF.png" width="70">|10nF 0805|[<img src="Images/Shops/ali.png" width="30">](http://swifitch.cz/capacitors_10nf_0805)|
+|<img src="Images/Parts/Capacitors_10nF.png" width="70">|10nF 0805|[<img src="Images/Shops/ali.png" width="30">](http://swifitch.cz/capacitory_10nf_0805)|
 |<img src="Images/Parts/Gray_BG_Parts/Capacitors_47uF.png" width="70">|47μF ⌀6.3x5mm|[<img src="Images/Shops/gray_farnell.png" width="35">](http://swifitch.cz/capacitors_47uf_6.3x5_farnell) [<img src="Images/Shops/gray_tme.png" width="30">](http://swifitch.cz/capacitors_47uf_6.3x5_tme)|
 |<img src="Images/Parts/Capacitors_47nF.png" width="70">|47nF X2|[<img src="Images/Shops/farnell.png" width="35">](http://swifitch.cz/capacitors_47nf_farnell) [<img src="Images/Shops/tme.png" width="30">](http://swifitch.cz/capacitors_47nf_tme)|
 
