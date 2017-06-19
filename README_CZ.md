@@ -297,6 +297,7 @@ Popřípadě tyto IoT platformy, nebo enablery.
 - [Homebridge - vlastní HomeKit server](https://github.com/nfarina/homebridge)
 	- [Homebridge MQTT plugin](https://github.com/cflurin/homebridge-mqtt)
 - [Blynk - plaforma a aplikace pro IoT - lze použít se Swifitchem](https://github.com/blynkkk/blynk-server)
+- [Timelapse pájení modulu od jednoho z našich fanoušků - YouTube](https://www.youtube.com/watch?v=yz-Ut0sAMPU)
 
 # Fotografie
 
