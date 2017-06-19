@@ -299,6 +299,7 @@ IoT platforms and enablers.
 - [Homebridge - HomeKit server](https://github.com/nfarina/homebridge)
 	- [Homebridge MQTT plugin](https://github.com/cflurin/homebridge-mqtt)
 - [Blynk - platform and applications for IoT - Swifitch is supported](https://github.com/blynkkk/blynk-server)
+- [Soldering timelapse from one of our builders - YouTube](https://www.youtube.com/watch?v=yz-Ut0sAMPU)
 
 # Photos
 
