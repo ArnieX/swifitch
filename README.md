@@ -1,6 +1,6 @@
 ![](Images/swifitch_looong_header.png)
 
-|<img src="Images/czech_flag.png" width="30">|[Readme v Češtině](https://github.com/ArnieX/swifitch/blob/master/README_CZ.md)|
+|<img src="Images/czech_flag.jpg" width="30">|[Readme v Češtině](https://github.com/ArnieX/swifitch/blob/master/README_CZ.md)|
 |---|---|
 
 ## Table of contents
