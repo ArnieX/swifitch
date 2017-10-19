@@ -75,9 +75,9 @@ We have designed few safety features in swifitch. Most important are fuses on ma
 |Preview|Part|Buy|
 |---|---|---|
 |<img src="Images/Parts/Capacitors_4.7uF.png" width="70">|4.7μF 0805|[<img src="Images/Shops/ali.png" width="30">](http://swifitch.cz/capacitors_4.7uf_0805)|
-|<img src="Images/Parts/Gray_BG_Parts/Capacitors_100nF.png" width="70">|100nF 0805|[<img src="Images/Shops/gray_ali.png" width="30">](http://swifitch.cz/capacitors_100nf_0805)|
+|<img src="Images/Parts/Gray_BG_Parts/Capacitors_100nF.png" width="70">|100nF 0805|[<img src="Images/Shops/ali.png" width="30">](http://swifitch.cz/capacitors_100nf_0805)|
 |<img src="Images/Parts/Capacitors_10nF.png" width="70">|10nF 0805|[<img src="Images/Shops/ali.png" width="30">](http://swifitch.cz/capacitory_10nf_0805)|
-|<img src="Images/Parts/Gray_BG_Parts/Capacitors_47uF.png" width="70">|47μF ⌀6.3x5mm|[<img src="Images/Shops/gray_farnell.png" width="35">](http://swifitch.cz/capacitors_47uf_6.3x5_farnell) [<img src="Images/Shops/gray_tme.png" width="30">](http://swifitch.cz/capacitors_47uf_6.3x5_tme)|
+|<img src="Images/Parts/Gray_BG_Parts/Capacitors_47uF.png" width="70">|47μF ⌀6.3x5mm|[<img src="Images/Shops/farnell.png" width="35">](http://swifitch.cz/capacitors_47uf_6.3x5_farnell) [<img src="Images/Shops/tme.png" width="30">](http://swifitch.cz/capacitors_47uf_6.3x5_tme)|
 |<img src="Images/Parts/Capacitors_47nF.png" width="70">|47nF X2|[<img src="Images/Shops/farnell.png" width="35">](http://swifitch.cz/capacitors_47nf_farnell) [<img src="Images/Shops/tme.png" width="30">](http://swifitch.cz/capacitors_47nf_tme)|
 
 **Resistors**
@@ -85,29 +85,29 @@ We have designed few safety features in swifitch. Most important are fuses on ma
 |Preview|Part|Buy|
 |---|---|---|
 |<img src="Images/Parts/Resistors_10k.png" width="80">|10kΩ 0805|[<img src="Images/Shops/ali.png" width="30">](http://swifitch.cz/resistors_10k_0805)|
-|<img src="Images/Parts/Gray_BG_Parts/Resistors_one_0805.png" width="80">|1.5kΩ 0805|[<img src="Images/Shops/gray_ali.png" width="30">](http://swifitch.cz/resistors_1.5k_0805)|
+|<img src="Images/Parts/Gray_BG_Parts/Resistors_one_0805.png" width="80">|1.5kΩ 0805|[<img src="Images/Shops/ali.png" width="30">](http://swifitch.cz/resistors_1.5k_0805)|
 |<img src="Images/Parts/Resistors_one_0805.png" width="80">|2.2kΩ 0805|[<img src="Images/Shops/ali.png" width="30">](http://swifitch.cz/resistors_2.2k_0805)|
-|<img src="Images/Parts/Gray_BG_Parts/Resistors_one_0805.png" width="80">|47kΩ 0805|[<img src="Images/Shops/gray_ali.png" width="30">](http://swifitch.cz/resistors_47k_0805)|
+|<img src="Images/Parts/Gray_BG_Parts/Resistors_one_0805.png" width="80">|47kΩ 0805|[<img src="Images/Shops/ali.png" width="30">](http://swifitch.cz/resistors_47k_0805)|
 |<img src="Images/Parts/Resistors_160R_1206.png" width="80">|160Ω 1206|[<img src="Images/Shops/ali.png" width="30">](http://swifitch.cz/resistors_160R_1206)|
-|<img src="Images/Parts/Gray_BG_Parts/S10K275.png" width="80">|S10K275|[<img src="Images/Shops/gray_farnell.png" width="35">](http://swifitch.cz/resistors_S10K275_farnell) [<img src="Images/Shops/gray_tme.png" width="30">](http://swifitch.cz/resistors_S10K275_tme)|
+|<img src="Images/Parts/Gray_BG_Parts/S10K275.png" width="80">|S10K275|[<img src="Images/Shops/farnell.png" width="35">](http://swifitch.cz/resistors_S10K275_farnell) [<img src="Images/Shops/tme.png" width="30">](http://swifitch.cz/resistors_S10K275_tme)|
 
 **Power and Controls**
 
 |Preview|Part|Buy|
 |---|---|---|
 |<img src="Images/Parts/Fuse_Schurter.png" width="40">|SCHURTER MSF 250VAC 500mA|[<img src="Images/Shops/farnell.png" width="35">](http://swifitch.cz/power_schurter_fuse_farnell) [<img src="Images/Shops/tme.png" width="30">](http://swifitch.cz/power_schurter_fuse_tme)|
-|<img src="Images/Parts/Gray_BG_Parts/Fuse_Temperature.png" width="40">|PROFFUSE TZ-P100/2 100°C or similar|[<img src="Images/Shops/gray_farnell.png" width="30">](http://swifitch.cz/power_temperature_fuse_farnell) [<img src="Images/Shops/gray_tme.png" width="30">](http://swifitch.cz/power_temperature_fuse_tme)|
+|<img src="Images/Parts/Gray_BG_Parts/Fuse_Temperature.png" width="40">|PROFFUSE TZ-P100/2 100°C or similar|[<img src="Images/Shops/farnell.png" width="30">](http://swifitch.cz/power_temperature_fuse_farnell) [<img src="Images/Shops/tme.png" width="30">](http://swifitch.cz/power_temperature_fuse_tme)|
 |<img src="Images/Parts/HLK-PM01.png" width="80">|Hi-Link HLK-PM01 AC-DC 5V/3W|[<img src="Images/Shops/ali.png" width="30">](http://swifitch.cz/power_AC_DC)|
-|<img src="Images/Parts/Gray_BG_Parts/Relay.png" width="50">|SRD-05VDC-SL-C Relay<br>FINDER  36.11.9.005.4011|[<img src="Images/Shops/gray_ali.png" width="30">](http://swifitch.cz/power_relay_ali) [<img src="Images/Shops/gray_farnell.png" width="30">](http://swifitch.cz/power_relay_farnell) [<img src="Images/Shops/gray_tme.png" width="30">](http://swifitch.cz/power_relay_tme)|
+|<img src="Images/Parts/Gray_BG_Parts/Relay.png" width="50">|SRD-05VDC-SL-C Relay<br>FINDER  36.11.9.005.4011|[<img src="Images/Shops/ali.png" width="30">](http://swifitch.cz/power_relay_ali) [<img src="Images/Shops/farnell.png" width="30">](http://swifitch.cz/power_relay_farnell) [<img src="Images/Shops/tme.png" width="30">](http://swifitch.cz/power_relay_tme)|
 
 **Other SMD Parts**
 
 |Preview|Part|Buy|
 |---|---|---|
 |<img src="Images/Parts/BC817-16.215.png" width="20">|BC817-16.215|[<img src="Images/Shops/ali.png" width="30">](http://swifitch.cz/smd_bc817_ali) [<img src="Images/Shops/farnell.png" width="35">](http://swifitch.cz/smd_bc817_farnell) [<img src="Images/Shops/tme.png" width="30">](http://swifitch.cz/smd_bc817_tme)|
-|<img src="Images/Parts/Gray_BG_Parts/BAS86.png" width="22">|BAS86|[<img src="Images/Shops/gray_farnell.png" width="35">](http://swifitch.cz/smd_bas86_farnell) [<img src="Images/Shops/gray_tme.png" width="30">](http://swifitch.cz/smd_bas86_tme)|
+|<img src="Images/Parts/Gray_BG_Parts/BAS86.png" width="22">|BAS86|[<img src="Images/Shops/farnell.png" width="35">](http://swifitch.cz/smd_bas86_farnell) [<img src="Images/Shops/tme.png" width="30">](http://swifitch.cz/smd_bas86_tme)|
 |<img src="Images/Parts/MCP1825T-3302E-DC.png" width="30">|MCP1825T-3302E/DC Voltage Regulator|[<img src="Images/Shops/farnell.png" width="35">](http://swifitch.cz/smd_MCP1825T_farnell) [<img src="Images/Shops/tme.png" width="30">](http://swifitch.cz/smd_MCP1825T_tme)|
-|<img src="Images/Parts/Gray_BG_Parts/FB1.png" width="18">|Ferrite Bead 600Ω 100MHz 0805|[<img src="Images/Shops/gray_ali.png" width="30">](http://swifitch.cz/smd_ferritebead_ali) [<img src="Images/Shops/gray_farnell.png" width="30">](http://swifitch.cz/smd_ferritebead_farnell) [<img src="Images/Shops/gray_tme.png" width="30">](http://swifitch.cz/smd_ferritebead_tme)|
+|<img src="Images/Parts/Gray_BG_Parts/FB1.png" width="18">|Ferrite Bead 600Ω 100MHz 0805|[<img src="Images/Shops/ali.png" width="30">](http://swifitch.cz/smd_ferritebead_ali) [<img src="Images/Shops/farnell.png" width="30">](http://swifitch.cz/smd_ferritebead_farnell) [<img src="Images/Shops/tme.png" width="30">](http://swifitch.cz/smd_ferritebead_tme)|
 |<img src="Images/Parts/LED1.png" width="18">|Any 0805 LED diode|[<img src="Images/Shops/ali.png" width="30">](http://swifitch.cz/smd_led_diode)|
 
 **Connectors**
@@ -115,7 +115,7 @@ We have designed few safety features in swifitch. Most important are fuses on ma
 |Preview|Part|Buy|
 |---|---|---|
 |<img src="Images/Parts/Header_1x2.png" width="30">|Headers 1x2 2.54mm pitch|[<img src="Images/Shops/ali.png" width="30">](http://swifitch.cz/connector_headers_1x2)|
-|<img src="Images/Parts/Gray_BG_Parts/Header_2x5.png" width="26">|Headers 2x5 2.54mm pitch|[<img src="Images/Shops/gray_ali.png" width="30">](http://swifitch.cz/connector_headers_2x5)|
+|<img src="Images/Parts/Gray_BG_Parts/Header_2x5.png" width="26">|Headers 2x5 2.54mm pitch|[<img src="Images/Shops/ali.png" width="30">](http://swifitch.cz/connector_headers_2x5)|
 |<img src="Images/Parts/Terminal_2P_and_3P.png" width="100">|Terminal 2P and 3P, 5.08mm pitch rounded lead|[<img src="Images/Shops/ali.png" width="30">](http://swifitch.cz/connector_terminal)|
 
 **The rest**
@@ -123,7 +123,7 @@ We have designed few safety features in swifitch. Most important are fuses on ma
 |Preview|Part|Buy|
 |---|---|---|
 |<img src="Images/Parts/ESP8266_12.png" width="75">|ESP8266-12(E/F/S)|[<img src="Images/Shops/ali.png" width="30">](http://swifitch.cz/therest_esp8266)|
-|<img src="Images/Parts/Gray_BG_Parts/PCB.png" width="300">|PCB|[<img src="Images/Shops/gray_seeedstudio.png" width="30">](http://swifitch.cz/therest_pcb)|
+|<img src="Images/Parts/Gray_BG_Parts/PCB.png" width="300">|PCB|[<img src="Images/Shops/seeedstudio.png" width="30">](http://swifitch.cz/therest_pcb)|
 
 Most of it could be purchased on AliExpress or eBay for what we call "no money", some parts are safer to get from your local trusted electricians shop (fuse and relay if you do not want chinese).
 
