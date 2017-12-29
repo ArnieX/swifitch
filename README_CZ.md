@@ -261,7 +261,7 @@ Přední strana obsahuje většinově THT součástky, proto začněte s SMD sou
 |DC1|HLK-PM01|
 |F2|100°C tepelná pojistka|
 |R2|S10K275|
-|F1|MSF250/0.5A|
+|F1|MST250/0.5A|
 |C10|47nF|
 |C2|47μF|
 |C9|47μF|
