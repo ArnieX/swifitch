@@ -95,7 +95,7 @@ Při navrhování swifitche byla bezpečnost jednou z priorit a rozhodně jsme j
 
 |Náhled|Součástka|Koupit|
 |---|---|---|
-|<img src="Images/Parts/Fuse_Schurter.png" width="40">|SCHURTER MSF 250VAC 500mA|[<img src="Images/Shops/farnell.png" width="35">](http://swifitch.cz/cz/power_schurter_fuse_farnell) [<img src="Images/Shops/tme.png" width="30">](http://swifitch.cz/cz/power_schurter_fuse_tme)|
+|<img src="Images/Parts/Fuse_Schurter.png" width="40">|SCHURTER MST 250VAC 500mA|[<img src="Images/Shops/farnell.png" width="35">](http://swifitch.cz/cz/power_schurter_fuse_farnell) [<img src="Images/Shops/tme.png" width="30">](http://swifitch.cz/cz/power_schurter_fuse_tme)|
 |<img src="Images/Parts/Gray_BG_Parts/Fuse_Temperature.png" width="40">|PROFFUSE TZ-P100/2 100°C nebo podobná|[<img src="Images/Shops/farnell.png" width="30">](http://swifitch.cz/cz/power_temperature_fuse_farnell) [<img src="Images/Shops/tme.png" width="30">](http://swifitch.cz/cz/power_temperature_fuse_tme)|
 |<img src="Images/Parts/HLK-PM01.png" width="80">|Hi-Link HLK-PM01 AC-DC 5V/3W|[<img src="Images/Shops/ali.png" width="30">](http://swifitch.cz/power_AC_DC)|
 |<img src="Images/Parts/Gray_BG_Parts/Relay.png" width="50">|SRD-05VDC-SL-C relé<br>FINDER  36.11.9.005.4011|[<img src="Images/Shops/ali.png" width="30">](http://swifitch.cz/power_relay_ali) [<img src="Images/Shops/farnell.png" width="30">](http://swifitch.cz/cz/power_relay_farnell) [<img src="Images/Shops/tme.png" width="30">](http://swifitch.cz/cz/power_relay_tme)|
