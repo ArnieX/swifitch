@@ -95,7 +95,7 @@ We have designed few safety features in swifitch. Most important are fuses on ma
 
 |Preview|Part|Buy|
 |---|---|---|
-|<img src="Images/Parts/Fuse_Schurter.png" width="40">|SCHURTER MSF 250VAC 500mA|[<img src="Images/Shops/farnell.png" width="35">](http://swifitch.cz/power_schurter_fuse_farnell) [<img src="Images/Shops/tme.png" width="30">](http://swifitch.cz/power_schurter_fuse_tme)|
+|<img src="Images/Parts/Fuse_Schurter.png" width="40">|SCHURTER MST 250VAC 500mA|[<img src="Images/Shops/farnell.png" width="35">](http://swifitch.cz/power_schurter_fuse_farnell) [<img src="Images/Shops/tme.png" width="30">](http://swifitch.cz/power_schurter_fuse_tme)|
 |<img src="Images/Parts/Gray_BG_Parts/Fuse_Temperature.png" width="40">|PROFFUSE TZ-P100/2 100°C or similar|[<img src="Images/Shops/farnell.png" width="30">](http://swifitch.cz/power_temperature_fuse_farnell) [<img src="Images/Shops/tme.png" width="30">](http://swifitch.cz/power_temperature_fuse_tme)|
 |<img src="Images/Parts/HLK-PM01.png" width="80">|Hi-Link HLK-PM01 AC-DC 5V/3W|[<img src="Images/Shops/ali.png" width="30">](http://swifitch.cz/power_AC_DC)|
 |<img src="Images/Parts/Gray_BG_Parts/Relay.png" width="50">|SRD-05VDC-SL-C Relay<br>FINDER  36.11.9.005.4011|[<img src="Images/Shops/ali.png" width="30">](http://swifitch.cz/power_relay_ali) [<img src="Images/Shops/farnell.png" width="30">](http://swifitch.cz/power_relay_farnell) [<img src="Images/Shops/tme.png" width="30">](http://swifitch.cz/power_relay_tme)|
@@ -261,7 +261,7 @@ Front side contains mostly THT parts, but start with SMD parts that would be har
 |DC1|HLK-PM01|
 |F2|100°C fuse|
 |R2|S10K275|
-|F1|MSF250/0.5A|
+|F1|MST250/0.5A|
 |C10|47nF|
 |C2|47μF|
 |C9|47μF|
